@@ -1,2 +1,3 @@
-# guia_git_colaborativa
-Ejercicio sesión 2 curso Herramientas y colaboración en proyectos de IA
+# Guía colaborativa de Git 
+Este repositorio es un ejercicio práctico para aprender Git en parejas. 
+## Objetivo Aprender a usar ramas y merges. 
